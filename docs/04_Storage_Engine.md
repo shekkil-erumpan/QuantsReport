@@ -1,4 +1,4 @@
-# 03 — Storage Engine
+# 04 — Storage Engine
 ## Quants Report — Capinfy Private Limited
 
 > **Naming note, read this first:** this engine was originally named **"Data Engine"** in the earliest architecture documents for this project. The Founder's own architecture diagram, and every document produced after it, renamed this engine to **"Storage Engine."** The role, responsibilities, and components described in this document are unchanged across that rename — this is one engine under two names at different points in the project's history, not two different components. This document uses "Data Engine" in its title (matching the original name and this file's requested subject) and "Storage Engine" throughout the body (matching the current, accepted name), and calls out the distinction wherever it could otherwise cause confusion. See Section 26 for the full decision history.
